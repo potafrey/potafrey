@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeffrey</h1>
 <h3 align="center">An Economics, Data Science & Analytics Graduate from SMU</h3>
 
-<p>
-I am a graduate from Singapore Management University, with a Bachelor of Science (Economics) and Second Major in Data Science & Analytics. Feel free to connect with me and explore some of my projects I have done in school. Outside of my projects, I am a car enthusiast and travel lover. 
+<h3 align="center">About Me</h3>
+<p align="center">
+I am a graduate from Singapore Management University, with a Bachelor of Science (Economics) and Second Major in Data Science & Analytics. Feel free to connect with me and explore some of my projects I have done in school. Outside of academic and work, I am a huge car enthusiast and travel lover. 
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
